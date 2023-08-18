@@ -1,6 +1,6 @@
 # s3staticwebsite
 
-This is a demo to host A Static web site to Amazon Web Service S3.
+This is a demo to host A Static Website to Amazon Web Service S3.
 
 ## Hosted on AWS at
 ```bash
